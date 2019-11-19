@@ -1,0 +1,14 @@
+Package: VincentLabFormatter
+Title: Functions to ensure consistent formatting of all data matrices
+Version: 0.0-1
+Authors@R: 
+    person(given = "Sarah",
+           family = "Entwistle",
+           role = c("aut", "cre"),
+           email = "sentwistle13@gmail.com",
+           comment = c(ORCID = "0000-0002-9322-1288"))
+Description: The functions in this pacakge can be used to format a data matrix into a standardized format for easier post processing.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.0
