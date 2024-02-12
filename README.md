@@ -1,5 +1,7 @@
 Formats data matrices in a standardized way.
 
+* this package was originally hosted at github.com/Benjamin-Vincent-Lab/VincentLabFormatter , moved here on 2/12/2024
+
 ## Assembling this package
 In R:
 ``` r
